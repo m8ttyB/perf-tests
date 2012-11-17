@@ -34,14 +34,6 @@ followed by
 
 You will also need to install [gnuplot]. 
 
-For OSX [Macports] is a simple way to install [gnuplot].
-Simply install [Macports] and then run
-
-    sudo port install gnuplot
-
-[gnuplot]: http://www.gnuplot.info/
-[Macports]: http://www.macports.org/
-
 __note__
 
 If you are running on Ubuntu/Debian you will need to first do
