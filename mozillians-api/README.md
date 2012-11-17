@@ -1,7 +1,7 @@
 Mozillians-API Benchmark Tests
 ===================
 
-Automated tests for the Firefox Input web application.
+Benchmark tests for the Mozillians Phonebook web application.
 For information specific to Firefox Mozillians see the [GitHub repository][GitHub Mozillians].
 
 [GitHub Mozillians]: https://github.com/mozilla/mozillians
@@ -32,7 +32,9 @@ followed by
 
     sudo pip install -r requirements.txt
 
-You will also need to install [gnuplot]. For OSX [Macports] is a simple way to install [gnuplot].
+You will also need to install [gnuplot]. 
+
+For OSX [Macports] is a simple way to install [gnuplot].
 Simply install [Macports] and then run
 
     sudo port install gnuplot
@@ -47,6 +49,14 @@ If you are running on Ubuntu/Debian you will need to first do
     sudo apt-get install python-setuptools
 
 to install the required Python libraries.
+
+For OSX [Macports] is a simple way to install [gnuplot].
+Simply install [Macports] and then run
+
+    sudo port install gnuplot
+
+[gnuplot]: http://www.gnuplot.info/
+[Macports]: http://www.macports.org/
 
 ### Running tests locally
 
