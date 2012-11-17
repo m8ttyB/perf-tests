@@ -32,7 +32,7 @@ followed by
 
     sudo pip install -r requirements.txt
 
-You will also need to install [gnuplot]. 
+You will also need to install [gnuplot] so you can generate graphical reports. 
 
 __note__
 
